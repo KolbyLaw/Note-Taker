@@ -19,6 +19,8 @@ The challenge was to create an application called Note Taker that can be used to
 
 ## Usage Information
 
+The live app can be accessed at **[Heroku](https://floating-brushlands-15389.herokuapp.com/)**!
+</br></br>
 Once you've added the note title and description you can save it to the database with the save icon in the upper left corner. Saved note information can be reviewed by clicking on the note title, and deleted via the trash icon.
 </br></br>
 
